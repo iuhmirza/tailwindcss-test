@@ -558,7 +558,7 @@ video {
   --tw-backdrop-sepia:  ;
 }
 
-@tailwind component;
+@tailwind components;
 
 .text-3xl {
   font-size: 1.875rem;
